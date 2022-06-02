@@ -1,0 +1,17 @@
+{
+  "title": "User data",
+  "content": [
+    {
+      "id": 1,
+      "name": "Jhon Doe",
+      "age": 20,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "age": 21,
+      "role": "user"
+    }
+  ]
+}
